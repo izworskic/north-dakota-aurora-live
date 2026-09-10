@@ -1,3 +1,11 @@
 # North Dakota Aurora Live
 
-State-specific Northern Lights viewing decision tool for North Dakota.
+Independent state aurora decision tool for North Dakota.
+
+- Canonical: `https://chrisizworski.com/national-tools/aurora/north-dakota/`
+- Default region: `peace-garden`
+- Runtime: Vercel static HTML + Node serverless API
+- Sources: NOAA SWPC, NWS API, U.S. Naval Observatory
+- No paid API, database, Replit runtime, or Michigan runtime dependency
+
+Run `npm test` and `npm run build` before release. Michigan Northern Lights must remain unchanged.
