@@ -65,7 +65,7 @@ module.exports=Object.freeze([
     ],
     "field_notes": {
       "sky": "Higher latitude helps, but forest stands and park structures can spoil a low northern arc.",
-      "decision": "For marginal regional watches, prioritize a known open northern horizon outside town lights.",
+      "decision": "For marginal regional watches, prioritize a known open northern horizon outside town lights. Verify public-road alternatives rather than relying on access to the Garden itself.",
       "access": "This is an international border attraction. Do not assume after-hours access, unattended crossings or exempt identity requirements."
     },
     "sources": [
@@ -136,9 +136,9 @@ module.exports=Object.freeze([
       }
     ],
     "field_notes": {
-      "sky": "The forest creates a much narrower effective aurora horizon than the nearby plains.",
+      "sky": "The forest creates a much narrower effective aurora horizon than the nearby plains. Even a dark clear night can fail behind tall northwoods trees.",
       "decision": "This uses the larger Turtle Mountains regional cloud forecast, not an exact measurement at the lake.",
-      "access": "Stay off uncertain ice and private shorelines. Use authorized park and campground areas."
+      "access": "Stay off uncertain ice and private shorelines. Use authorized park and campground areas. Overnight facilities have different public and guest policies."
     },
     "sources": [
       {
@@ -174,7 +174,7 @@ module.exports=Object.freeze([
     "field_notes": {
       "sky": "Strong northern latitude; limited horizon in deep valleys. Cloud or fog can settle into low terrain.",
       "decision": "Pembina regional input is a proxy for the broader gorge, not a sensor at a trailhead. Confirm site conditions.",
-      "access": "Do not enter unmaintained trail networks at night or block ATV and snowmobile routes."
+      "access": "Do not enter unmaintained trail networks at night or block ATV and snowmobile routes. Nighttime trail access is not guaranteed."
     },
     "sources": [
       {
